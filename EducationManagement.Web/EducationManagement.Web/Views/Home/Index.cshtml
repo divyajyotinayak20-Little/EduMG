@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container mt-5">
+    <h2>Welcome to EducationManagement</h2>
+
+    <p>
+        Hello, @User.FindFirst("FullName")?.Value!
+    </p>
+
+    <p>You are successfully logged in.</p>
+
+    <form asp-controller="Account"
+          asp-action="Logout"
+          method="post">
+        <button type="submit" class="btn btn-danger">
+            Logout
+        </button>
+    </form>
+</div>

@@ -1,0 +1,12 @@
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\bin\Debug\net10.0\EducationManagement.Models.deps.json
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\bin\Debug\net10.0\EducationManagement.Models.dll
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\bin\Debug\net10.0\EducationManagement.Models.pdb
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\obj\Debug\net10.0\EducationManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\obj\Debug\net10.0\EducationManagement.Models.AssemblyInfoInputs.cache
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\obj\Debug\net10.0\EducationManagement.Models.AssemblyInfo.cs
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\obj\Debug\net10.0\EducationManagement.Models.csproj.CoreCompileInputs.cache
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\obj\Debug\net10.0\EducationManagement.Models.dll
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\obj\Debug\net10.0\refint\EducationManagement.Models.dll
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\obj\Debug\net10.0\EducationManagement.Models.pdb
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\obj\Debug\net10.0\ref\EducationManagement.Models.dll
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Models\obj\Debug\net10.0\Educatio.20426D73.Up2Date

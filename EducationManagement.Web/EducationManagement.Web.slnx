@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EducationManagement.Business/EducationManagement.Business.csproj" />
+  <Project Path="EducationManagement.DataAccess/EducationManagement.DataAccess.csproj" />
+  <Project Path="EducationManagement.Models/EducationManagement.Models.csproj" />
+  <Project Path="EducationManagement.Web/EducationManagement.Web.csproj" />
+</Solution>

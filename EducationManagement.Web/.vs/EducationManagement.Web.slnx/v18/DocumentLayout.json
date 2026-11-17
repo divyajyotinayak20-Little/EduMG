@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DemoSolution\\DemoMvc\\EducationManagement.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A87A8B-B583-FD17-8FF4-CB748AA34CD3}|EducationManagement.DataAccess\\EducationManagement.DataAccess.csproj|d:\\demosolution\\demomvc\\educationmanagement.web\\educationmanagement.dataaccess\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A87A8B-B583-FD17-8FF4-CB748AA34CD3}|EducationManagement.DataAccess\\EducationManagement.DataAccess.csproj|solutionrelative:educationmanagement.dataaccess\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\DemoSolution\\DemoMvc\\EducationManagement.Web\\EducationManagement.DataAccess\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "EducationManagement.DataAccess\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\DemoSolution\\DemoMvc\\EducationManagement.Web\\EducationManagement.DataAccess\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "EducationManagement.DataAccess\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:21:07.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

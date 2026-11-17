@@ -1,0 +1,17 @@
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\bin\Debug\net10.0\EducationManagement.Business.deps.json
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\bin\Debug\net10.0\EducationManagement.Business.dll
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\bin\Debug\net10.0\EducationManagement.Business.pdb
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\bin\Debug\net10.0\EducationManagement.DataAccess.dll
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\bin\Debug\net10.0\EducationManagement.Models.dll
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\bin\Debug\net10.0\EducationManagement.DataAccess.pdb
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\bin\Debug\net10.0\EducationManagement.Models.pdb
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\EducationManagement.Business.csproj.AssemblyReference.cache
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\EducationManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\EducationManagement.Business.AssemblyInfoInputs.cache
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\EducationManagement.Business.AssemblyInfo.cs
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\EducationManagement.Business.csproj.CoreCompileInputs.cache
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\Educatio.C0C7E482.Up2Date
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\EducationManagement.Business.dll
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\refint\EducationManagement.Business.dll
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\EducationManagement.Business.pdb
+D:\DemoSolution\DemoMvc\EducationManagement.Web\EducationManagement.Business\obj\Debug\net10.0\ref\EducationManagement.Business.dll
