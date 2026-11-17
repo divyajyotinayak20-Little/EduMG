@@ -11,6 +11,8 @@ namespace EducationManagement.Web.Controllers
             return View();
         }
 
+        //first commit
+
         public IActionResult Privacy()
         {
             return View();
